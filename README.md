@@ -11,3 +11,5 @@ CURRENT PROJECTS:
       b) NYC weather, retrieved from: https://www.kaggle.com/mathijs/weather-data-in-new-york-city-2016
       
       c) Fastest route data, retrieved from: https://www.kaggle.com/oscarleo/new-york-city-taxi-with-osrm
+      
+2. Animal Shelter Outcomes from Kaggle: https://www.kaggle.com/c/shelter-animal-outcomes
